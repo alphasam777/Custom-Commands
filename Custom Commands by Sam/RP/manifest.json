@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Sam"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "1605ce3b-6171-4439-8159-ccaf2c1a38cc",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "5c96ff0e-2b09-478b-9add-cb8aa756117c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "969cf406-c8d0-4d58-801f-649eb96326e7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
